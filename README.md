@@ -1,6 +1,6 @@
 # node-jsonl
 
-Simple class to stringify arrays to jsonl format and parse from jsonl to array.
+Package that implements jsonl as specified by [jsonlines.org](https://jsonlines.org)
 
 ```js
 import JSONL from 'node-jsonl'
