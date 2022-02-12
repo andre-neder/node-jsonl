@@ -1,0 +1,23 @@
+{
+  "name": "node-jsonl",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-jsonl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre-beeclever/node-jsonl.git"
+  },
+  "keywords": [
+    "jsonl"
+  ],
+  "author": "André Neder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andre-beeclever/node-jsonl/issues"
+  },
+  "homepage": "https://github.com/andre-beeclever/node-jsonl#readme"
+}
