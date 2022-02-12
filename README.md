@@ -8,3 +8,4 @@ import JSONL from 'node-jsonl'
 JSONL.stringify(array) : string
 JSONL.parse(jsonl) : array
 ```
+
