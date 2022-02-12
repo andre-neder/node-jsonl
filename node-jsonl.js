@@ -1,6 +1,7 @@
-/*
-  To learn more about jsonl visit: https://jsonlines.org
-*/
+/*##############################################################*/
+/*### To learn more about jsonl visit: https://jsonlines.org ###*/
+/*##############################################################*/
+
 class JSONL{
     /**
      * Create a jsonl formated string from an array of objects.
