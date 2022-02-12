@@ -1,15 +1,10 @@
-#node-jsonl-db
+# node-jsonl
 
-Provides a simple way to store data in a jsonl file and read from it.
+Simple class to stringify arrays to jsonl format and parse from jsonl to array.
 
 ```js
-import JSONLDatabase from 'node-jsonl-database'
+import JSONL from 'node-jsonl'
 
-const Database = new JSONLDatabase({
-  path: '<directoy>',
-  name: '<filename>'
-})
-
-Database.write(array)
-Database.read() : array
+JSONL.stringify(array) : string
+JSONL.parse(jsonl) : array
 ```
